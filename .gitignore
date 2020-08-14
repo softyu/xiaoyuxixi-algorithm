@@ -1,7 +1,7 @@
 /target/
 
 ### IntelliJ IDEA ###
-.idea/*
+.idea
 *.iws
 *.iml
 *.ipr
@@ -16,4 +16,3 @@ mvnw
 
 /*/target/
 /.mvn
-xiaoyu/src/
