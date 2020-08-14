@@ -1,0 +1,19 @@
+/target/
+
+### IntelliJ IDEA ###
+.idea/*
+*.iws
+*.iml
+*.ipr
+
+
+
+.jar
+mvnw
+*.cmd
+
+**/*/application-*.yml
+
+/*/target/
+/.mvn
+xiaoyu/src/
